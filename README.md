@@ -1,4 +1,8 @@
 # Articles
+
+## Architecture
+[N26 app architecture: MVVM, reactive, clean architecture](https://mag.n26.com/reactive-clean-architecture-with-android-architecture-components-685a6682e0ca)
+
 ## RxJava
 3⃣ [Types of Subjects](https://blog.mindorks.com/understanding-rxjava-subject-publish-replay-behavior-and-async-subject-224d663d452f) `2017.02.27`
 
