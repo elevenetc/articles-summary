@@ -1,4 +1,4 @@
-# Timeless Articles
+# Articles summary
 
 ## Architecture
 [N26 app architecture: MVVM, reactive, clean architecture](https://mag.n26.com/reactive-clean-architecture-with-android-architecture-components-685a6682e0ca) `2017.09.05`
