@@ -32,3 +32,6 @@
 
 ## Dagger
 [Best practices](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f) <sup>2017.10.11</sup>
+
+## Algorithms
+[Dynamic Programming Problems](https://blog.pramp.com/how-to-solve-any-dynamic-programming-problem-603b6fbbd771?platform=hootsuite)<sup>2017.08.17</sup>
